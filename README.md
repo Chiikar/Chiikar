@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to drive acti
 - Power BI
   
 ###  📫 How to reach me
-- LinkedIn: https://www.linkedin.com/in/chika-chukwu-70375b234
 - Email: chikachukwu123@gmail.com
   
   
