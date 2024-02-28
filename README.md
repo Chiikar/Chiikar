@@ -6,7 +6,8 @@
 - 💼 Currently seeking new opportunities to contribute to data-driven decision-making and business success
 - 📚 Lifelong learner, constantly exploring new tools and techniques to enhance my analytical capabilities
 - 📫 How to reach me @Chikachukwu123@gmail.com
-- Feel free to explore my projects and reach out if you have any questions or collaboration opportunities. Happy analyzing! 🚀
+- Feel free to explore my projects and reach out if you have any questions or collaboration opportunities.
+-  Happy analyzing! 🚀
 
 
 
