@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to drive acti
 
 ### About Me
 - 🌟 Data Analyst with expertise in Microsoft Excel, SQL, and Power BI
-- 🌱 I’m currently learning PowerBI
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with anyone who shares a passion for leveraging data to drive insights, make informed decisions, and create positive impact
 - 💼 Currently seeking new opportunities to contribute to data-driven decision-making and business success
 - 📚 Lifelong learner, constantly exploring new tools and techniques to enhance my analytical capabilities
