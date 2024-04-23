@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to drive acti
 - SQL
 - Microsoft Excel
 - Power BI
+- Python (Programming Language)
   
 ###  📫 How to reach me
 - Email: chikachukwu123@gmail.com
